@@ -19,6 +19,9 @@ img{
 .resaltar{
     color: darkgreen;
 }
+#titulo-grande{
+    font-size: 30px;
+}
 p{
     background-color: lightblue;
 }
