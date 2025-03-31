@@ -6,4 +6,12 @@ h1{
   text-aling: center;
   font-size: 28px;
 }
+p{
+  font-family: Georgia, serif;
+  font-size: 18px;
+}
+ul{
+  font-weight: bold;
+  color: brown;
+}
 
